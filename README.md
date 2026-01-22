@@ -27,5 +27,9 @@ The analysis was conducted using Power BI on a dataset of 5,000 employees across
 - Exploratory data analysis report
 - Actionable recommendations for organizations
 
-## Dashboard Preview
+## Dashboard PDF Preview
+[Impact of Remote Work on Mental Well-Being- Dashboard.pdf](https://github.com/user-attachments/files/24783355/Impact.of.Remote.Work.on.Mental.Well-Being-.Dashboard.pdf)
+
+
+
 
