@@ -28,4 +28,4 @@ The analysis was conducted using Power BI on a dataset of 5,000 employees across
 - Actionable recommendations for organizations
 
 ## Dashboard Preview
-![Dashboard Overview](images/dashboard_page1.png)
+
